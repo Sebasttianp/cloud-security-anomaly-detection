@@ -1,6 +1,6 @@
 # Cloud Security Anomaly Detection Platform
 
-> 🚧 **Active Build** — This project is currently in development. Follow along as it gets built out phase by phase.
+> 🚧 **Planned** — This repository currently contains the project plan only. No code, data, or notebooks have been committed yet. Phases are checked off as the work is added here.
 
 A machine learning–based anomaly detection platform that analyzes cloud security audit logs to identify suspicious activity. Built to simulate the kind of detection engineering work done in real cloud security and SOC environments.
 
@@ -50,7 +50,9 @@ Docker Container → Deployed on Oracle Cloud / Azure
 
 ---
 
-## 📁 Project Structure
+## 📁 Planned Project Structure
+
+None of these files are in the repository yet.
 
 ```
 cloud-security-anomaly-detection/
@@ -87,7 +89,7 @@ Most security anomaly detection problems are **unsupervised** — you don't have
 
 ## 🚦 Build Progress
 
-- [x] Phase 1 — Project setup & synthetic log generation
+- [ ] Phase 1 — Project setup & synthetic log generation
 - [ ] Phase 2 — ML model training (Isolation Forest)
 - [ ] Phase 3 — SHAP explainability
 - [ ] Phase 4 — FastAPI REST endpoint
